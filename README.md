@@ -1,5 +1,5 @@
-Wundernut 8: The Shortest Edition
-================================
+Wundernut 8: The Shortest Edition | Winter 2017
+===============================================
 https://wunder.dog/the-shortest-edition
 
 ###### Result: wunderJoe.txt
